@@ -15,6 +15,7 @@ $ pip install requests
 ### Run
 
 - cd into -Hunt-Down-Social-Media-Accounts-by-Usernames-Looking-Glass-v1.0-master
+
 Once you have installed everything correctly to run Looking-Glass run these commands:
 
 ##### Run on Linux/Mac:
