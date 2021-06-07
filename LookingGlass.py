@@ -2,7 +2,7 @@ import requests
 import time
 
 ''' INPUT USERNMAE TO DOX '''
-username = input('\033[92m{+} Enter username to DOX: ')
+username = input('\033[92m{+} Enter username to search: ')
 
 
 # INSTAGRAM
