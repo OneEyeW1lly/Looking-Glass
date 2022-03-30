@@ -1,4 +1,5 @@
-# ToastedWaffless Looking-Glass-v1.0
+# Looking-Glass v1.0
+## by: obsidian
 
 ### Install
 - Install python3.8 or higher from www.python.org
@@ -14,16 +15,11 @@ $ pip install requests
 
 ### Run
 
-- cd into -Hunt-Down-Social-Media-Accounts-by-Usernames-Looking-Glass-v1.0-master
+- cd into Looking-Glass-master
 
 Once you have installed everything correctly to run Looking-Glass run these commands:
 
-##### Run on Linux/Mac:
-```python
-$ python3 LookingGlass.py
+##### Running:
 ```
-
-##### Run on Windows:
-```python
-$ python LookingGlass.py
+$ python3 LookingGlass.py
 ```
